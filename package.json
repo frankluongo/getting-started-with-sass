@@ -1,5 +1,5 @@
 {
-  "name": "wordpress-local",
+  "name": "getting-started-with-sass",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.babel.js",
@@ -21,7 +21,8 @@
     "gulp-notify": "^3.2.0",
     "gulp-plumber": "^1.2.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sourcemaps": "^2.6.4"
+    "gulp-sourcemaps": "^2.6.4",
+    "webpack-stream": "^4.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
